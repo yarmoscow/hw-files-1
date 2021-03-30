@@ -49,4 +49,3 @@ def get_shop_list_by_dishes(dishes, person_count, cookbook):
 
 
 pprint(get_shop_list_by_dishes(['Фо-Бо', 'Фахитос', 'Омлет'], 22, read_recipes_from_file('recipes.txt')))
-
